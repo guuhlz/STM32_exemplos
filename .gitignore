@@ -1,23 +1,23 @@
 # STM32CubeIDE project files
-/.settings/
-/Drivers/
-/Middlewares/
-/Project/
+.settings/
+Drivers/
+Middlewares/
+Project/
 
 # STM32CubeIDE generated files
-/.cproject
-/.mxproject
-/.project
-/.settings/
-/*.launch
-/*.pydevproject
-/*.cproject
-/*.project
-/*.settings/
-/*.mxproject
-/*.py
+.cproject
+.mxproject
+.project
+.settings/
+*.launch
+*.pydevproject
+*.cproject
+*.project
+*.settings/
+*.mxproject
+*.py
 
 # Compiled output
-/Bin/
-/Debug/
-/Release/
+Bin/
+Debug/
+Release/
